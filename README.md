@@ -7,7 +7,7 @@
 ## Main Code
  
 ```cpp
-	// Create a file rotating logger with 1 mb size max and O rotated files
+// Create a file rotating logger with 1 mb size max and O rotated files
 size_t maxFileSize = 1024768; // Maximum log file size is 1MB.
 size_t msxFileCount = 0; // Only rotating.txt file is used.
 auto rotating_logger = spdlog::rotating_logger_mt("some_logger_name", "rotating.txt", maxFileSize, msxFileCount);
