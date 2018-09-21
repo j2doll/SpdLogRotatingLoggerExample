@@ -1,7 +1,9 @@
 # Example for spdlog Rotating Logger
 
-- Example for spdlog Rotating Logger [https://github.com/j2doll/SpdLogRotatingLoggerExample/tree/master/SpdLogRotatingLogger/SpdLogRotatingLogger](https://github.com/j2doll/SpdLogRotatingLoggerExample/tree/master/SpdLogRotatingLogger/SpdLogRotatingLogger)
-- spdlog is very fast, header only, C++ logging library. [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
+- Example for spdlog Rotating Logger 
+	- [https://github.com/j2doll/SpdLogRotatingLoggerExample/tree/master/SpdLogRotatingLogger/SpdLogRotatingLogger](https://github.com/j2doll/SpdLogRotatingLoggerExample/tree/master/SpdLogRotatingLogger/SpdLogRotatingLogger)
+- spdlog is very fast, header only, C++ logging library.
+	- [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
 
 ## Main Code
  
