@@ -2,6 +2,7 @@
 
 - Example for spdlog Rotating Logger [https://github.com/j2doll/SpdLogRotatingLoggerExample](https://github.com/j2doll/SpdLogRotatingLoggerExample)
 - spdlog is very fast, header only, C++ logging library. [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
+- Example runs on Visual Studio 2017.
 
 ## Main Code
  
